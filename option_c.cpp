@@ -5,7 +5,7 @@ using namespace std;
 
 //Algoritmo tomará dos valores e indicará si el primero es múltiplo del segundo
 
-int main(){
+int option_c(){
 
     int valor1, valor2;
 
